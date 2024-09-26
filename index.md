@@ -26,6 +26,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      variant: floating
   - infobar:
       title: Infobar title
       subtitle: Subtitle
