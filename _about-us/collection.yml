@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Library Resources.md
-      - User Guidelines.md
-      - Let's Connect.md
-      - Membership.md
-      - Loan Information.md
       - Background.md
+      - Loan Information.md
+      - Membership.md
+      - Let's Connect.md
+      - User Guidelines.md
+      - Library Resources.md
