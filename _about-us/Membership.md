@@ -41,23 +41,49 @@ procedures to access READ@Academy resources:&nbsp;</p>
 Local MIMS Administrator (LA).</p>
 <p></p>
 <h4><strong>If you're experiencing difficulties logging into the MIMS portal, here are some troubleshooting steps:</strong></h4>
-<p><strong>For Direct Hires:</strong>
-</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>For Direct Hires:</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Ensure your school/branch Local MIMS Administrator (LA) has:</p>
-<p>a) Applied for your MIMS Account</p>
-<p>b) Requested READ@Academy (RAC) account permission</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Requested READ@Academy (RAC) account permission</p>
+</li>
+<li>
+<p>Applied for your MIMS Account</p>
+</li>
+</ul>
 <p>If you are unsure of your MIMS LA, consult School ICT Manager/HOD</p>
-<p></p>
-<p><strong>For Staff Transfers (Schools/HQs):</strong>
-</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>For Staff Transfers (Schools/HQs):</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Confirm with your LA that:</p>
-<p>a) Transfer has been recorded</p>
-<p>b) MIMS email address is updated</p>
-<p></p>
-<p><strong>For MOE-seconded Staff to External Organisations:</strong>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Transfer has been recorded</p>
+</li>
+<li>
+<p>MIMS email address is updated</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>For MOE-seconded Staff to External Organisations:</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>MIMS accounts may be deactivated due to inactivity.</p>
 <p>Please request reactivation through the LA at your previous workplace.</p>
+</div>
+</details>
+</div>
 <p></p>
 <p>After completion, please await the relevant parties to contact you regarding
 the access. For technical issues, please contact the relevant service desks:</p>
