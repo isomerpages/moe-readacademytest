@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Library Resources.md
       - User Guidelines.md
       - Let's Connect.md
       - Membership.md
