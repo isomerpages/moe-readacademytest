@@ -8,7 +8,7 @@ description: ""
 <p>Enhance your ability to locate library resources and navigate our digital
 collection. Learn essential features to support your professional development
 and research needs.</p>
-<h4>Discover How to Find Relevant Information in Two Simple Steps: </h4>
+<h4>Discover How to Find Relevant Information in Two Simple Steps:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Select the e-resources you're interested in exploring.</p>
@@ -22,7 +22,7 @@ and research needs.</p>
 <p>Call: 6664 1455</p>
 </li>
 <li>
-<p>Email: <a href="mailto:moe_read_academy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">moe_read_academy@moe.edu.sg</a> 
+<p>Email: <a href="mailto:moe_read_academy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">moe_read_academy@moe.edu.sg</a>
 </p>
 </li>
 </ul>
