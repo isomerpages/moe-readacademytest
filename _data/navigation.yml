@@ -23,14 +23,14 @@ links:
       - title: User Education Videos
         url: /permalink
       - title: FAQ
-        url: /permalink
+        url: /faq
   - title: About Us
     url: /aboutus
     sublinks:
       - title: Background
         url: /background
       - title: Loan Information
-        url: /permalink
+        url: /loaninformation
       - title: Membership
         url: /permalink
       - title: Let's Connect
