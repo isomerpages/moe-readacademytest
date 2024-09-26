@@ -13,8 +13,8 @@ sections:
       title: Future READy Professional Learning Resources
       background: /images/READ_Hero_pic__2_.jpg
       key_highlights:
-        - title: E-Resources
-          description: Search our catalogue
+        - title: Resources
+          description: Search our Catalogue
           url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?QRYTEXT=OverDrive%20e-Books&QRY=BIBITM%3E(ITMCOLX:%20OVD)&SORTS=SQL_RANDOM&NRECS=30&SETLVL=SET
       variant: center
   - infobar:
