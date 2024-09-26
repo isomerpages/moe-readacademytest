@@ -4,6 +4,15 @@ links:
     url: /resources/
   - title: Services
     url: /services
+    sublinks:
+      - title: Reference Enquiry Form
+        url: https://go.gov.sg/readacademy-enquiry
+      - title: Book Recommendation Form
+        url: https://go.gov.sg/readacademy-recommendation
+      - title: Info-Skills Workshops
+        url: /INFOSKILLSWORKSHOPS
+  - title: User Guides
+    url: /user guides
     sublinks: []
   - title: example folder
     collection: example-folder
