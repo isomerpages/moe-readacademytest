@@ -22,7 +22,7 @@ and research needs.</p>
 <p>Call: 6664 1455</p>
 </li>
 <li>
-<p>Email: <a href="mailto:moe_read_academy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">moe_read_academy@moe.edu.sg</a>
+<p>Email: <a href="mailto:moe_readacademy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">moe_readacademy@moe.edu.sg</a>
 </p>
 </li>
 </ul>
