@@ -13,7 +13,17 @@ links:
         url: /INFOSKILLSWORKSHOPS
   - title: User Guides
     url: /user guides
-    sublinks: []
+    sublinks:
+      - title: E-Resources User Guides
+        url: /permalink
+      - title: Database User Guides
+        url: /permalink
+      - title: Sora Digital Library App
+        url: /permalink
+      - title: User Education Videos
+        url: /permalink
+      - title: FAQ
+        url: /permalink
   - title: About Us
     url: /aboutus
     sublinks:
