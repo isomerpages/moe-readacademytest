@@ -8,21 +8,26 @@ description: ""
 <p>READ@Academy is a specialised library that provides quality information
 resources and services to support the professional and personal development
 needs of officers in the education service.</p>
-<p>Membership is open to:</p>
+<p><strong>Membership is open to:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>MOE staff (inclusive of all education officers, executive and administrative
 staff and kindergarten educators)</p>
+</li>
+<li>
 <p>Staff of organisations involved in work related to MOE e.g. SEAB</p>
+</li>
+</ul>
 <p>Members may avail yourselves with the full range of resources and services
 available by logging in with your MIMS ID. Please adhere to&nbsp;the following
 procedures to access READ@Academy resources:&nbsp;</p>
-<p>If you are:</p>
-<p>(l) MOE Staff (Schools and HQ) &amp; MOE seconded staff to external schools/organisations</p>
-<p>(ll) Direct hires and Staff in External Organizations with MOE-related
-work</p>
-<p>Access READ@Academy landing page</p>
-<p>Log in using MIMS ID</p>
 <ol data-tight="true" class="tight">
 <li>
+<p>Access READ@Academy landing page</p>
+</li>
+<li>
+<p>Log in using MIMS ID</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/download.png">
@@ -33,29 +38,31 @@ work</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/download__1_.png">
 </div>
-<p>Forgot Your Password?</p>
+<h4><strong>Forgot Your Password?</strong></h4>
 <p>You can request for a password reset for your MIMS account through your
 Local MIMS Administrator (LA).</p>
-<p>If you're experiencing difficulties logging into the MIMS portal, here
-are some troubleshooting steps:</p>
-<p>For Direct Hires:</p>
+<p></p>
+<h4><strong>If you're experiencing difficulties logging into the MIMS portal, here are some troubleshooting steps:</strong></h4>
+<p><strong>For Direct Hires:</strong>
+</p>
 <p>Ensure your school/branch Local MIMS Administrator (LA) has:</p>
 <p>a) Applied for your MIMS Account</p>
 <p>b) Requested READ@Academy (RAC) account permission</p>
 <p>If you are unsure of your MIMS LA, consult School ICT Manager/HOD</p>
 <p></p>
-<p>For Staff Transfers (Schools/HQs):</p>
+<p><strong>For Staff Transfers (Schools/HQs):</strong>
+</p>
 <p>Confirm with your LA that:</p>
 <p>a) Transfer has been recorded</p>
 <p>b) MIMS email address is updated</p>
 <p></p>
-<p>For MOE-seconded Staff to External Organisations:</p>
+<p><strong>For MOE-seconded Staff to External Organisations:</strong>
+</p>
 <p>MIMS accounts may be deactivated due to inactivity.</p>
 <p>Please request reactivation through the LA at your previous workplace.</p>
 <p></p>
-<p>After Completion, please await the relevant parties to contact you regarding
-the access. For technical issues, please contact the relevant service desk.</p>
-<p>For MIMS access problems, please contact the following:</p>
+<p>After completion, please await the relevant parties to contact you regarding
+the access. For technical issues, please contact the relevant service desks:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -125,13 +132,25 @@ approved, please contact READ@Academy directly:</p>
 problem.</p>
 <p></p>
 <h4><strong>Application Process by Local MIMS Administrator</strong></h4>
-<p>If you are a local MIMS Administrator, here are the steps to apply for
-READ@Academy access:</p>
+<p><strong>If you are a local MIMS Administrator, here are the steps to apply for READ@Academy access:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
 <p>Log in to MIMS portal</p>
+</li>
+<li>
 <p>Go to ‘Access’ menu -&gt; Request function</p>
+</li>
+<li>
 <p>Click on ‘New Request’.</p>
+</li>
+<li>
 <p>Check request for ‘Others’ and indicate the specific staff for the request</p>
+</li>
+<li>
 <p>Under ‘Permissions’, look for ‘Read@Academy Account’ and submit request.</p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MIMS1.png">
 </div>
