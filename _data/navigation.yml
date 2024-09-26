@@ -3,7 +3,7 @@ links:
   - title: Resources
     url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?QRYTEXT=OverDrive%20e-Books&QRY=BIBITM%3E(ITMCOLX:%20OVD)&SORTS=SQL_RANDOM&NRECS=30&SETLVL=SET
   - title: Services
-    url: /services
+    url: /info-skills-workshops/
     sublinks:
       - title: Reference Enquiry Form
         url: https://go.gov.sg/readacademy-enquiry
