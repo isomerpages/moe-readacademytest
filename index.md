@@ -4,13 +4,14 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: READ@Academy
-      subtitle: Hero subtitle
+      subtitle: "To search for e-resources in our catalogue, please click on the
+        button below:"
       background: /images/L6__1_.jpg
-      button: Contact Us
+      button: SEARCH FOR E-RESOURCES
       url: /contact-us/
       key_highlights:
         - title: Highlight A
