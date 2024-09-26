@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Resources
           description: Search our Catalogue
-          url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?QRYTEXT=OverDrive%20e-Books&QRY=BIBITM%3E(ITMCOLX:%20OVD)&SORTS=SQL_RANDOM&NRECS=30&SETLVL=SET
+          url: https://readacademy.moe.edu.sg/
       variant: center
   - infobar:
       title: Infobar title
