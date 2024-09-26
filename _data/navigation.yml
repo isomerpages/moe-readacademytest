@@ -14,5 +14,22 @@ links:
   - title: User Guides
     url: /user guides
     sublinks: []
+  - title: About Us
+    url: /aboutus
+    sublinks:
+      - title: Background
+        url: /permalink
+      - title: Loan Information
+        url: /permalink
+      - title: Membership
+        url: /permalink
+      - title: Let's Connect
+        url: /permalink
+      - title: Helpdesk Hours
+        url: /permalink
+      - title: User Guidelines
+        url: /permalink
+      - title: Library Resources
+        url: /permalink
   - title: example folder
     collection: example-folder
