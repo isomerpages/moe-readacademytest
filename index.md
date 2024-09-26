@@ -1,7 +1,10 @@
 ---
 layout: homepage
 title: READ@Academy
-description: An Isomer site of the Singapore Government
+description: READ@Academy (Resources for Education and Development @ Academy for
+  Singapore Teachers) is a specialised library which aims to provide quality
+  information resources and services to support the professional and personal
+  development of officers in the education service.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
