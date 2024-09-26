@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Helpdesk Hours.md
       - Background.md
       - Loan Information.md
       - Membership.md
