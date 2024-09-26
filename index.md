@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Future READy Professional Learning. Anytime, Anywhere.
+      title: Future READy Professional Learning Resources
       subtitle: "To search for e-resources in our catalogue, please click the button
         below:"
       background: /images/L6__1_.jpg
