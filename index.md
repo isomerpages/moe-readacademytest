@@ -11,7 +11,7 @@ sections:
       subtitle: "To search for e-resources in our catalogue, please click on the
         button below:"
       background: /images/L6__1_.jpg
-      button: SEARCH FOR E-RESOURCES
+      button: SEARCH E-RESOURCES
       url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?QRYTEXT=OverDrive%20e-Books&QRY=BIBITM%3E(ITMCOLX:%20OVD)&SORTS=SQL_RANDOM&NRECS=30&SETLVL=SET
       key_highlights:
         - title: Highlight A
