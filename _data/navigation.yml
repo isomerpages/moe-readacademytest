@@ -25,21 +25,4 @@ links:
       - title: FAQ
         url: /faq
   - title: About Us
-    url: /aboutus
-    sublinks:
-      - title: Background
-        url: /background
-      - title: Loan Information
-        url: /loan-information
-      - title: Membership
-        url: /membership
-      - title: Let's Connect
-        url: /let-s-connect/
-      - title: Helpdesk Hours
-        url: /permalink
-      - title: User Guidelines
-        url: /user-guidelines/
-      - title: Library Resources
-        url: /library-resources/
-  - title: About Us
     collection: about-us
