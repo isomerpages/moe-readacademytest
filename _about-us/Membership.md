@@ -49,10 +49,12 @@ Local MIMS Administrator (LA).</p>
 <p>Ensure your school/branch Local MIMS Administrator (LA) has:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Requested READ@Academy (RAC) account permission</p>
+<p>Applied for a MIMS Account for you</p>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Applied for your MIMS Account</p>
+<p>Requested READ@Academy (RAC) account access on MIMS portal</p>
 </li>
 </ul>
 <p>If you are unsure of the identity of your MIMS LA, consult School ICT
