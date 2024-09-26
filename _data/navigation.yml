@@ -1,8 +1,9 @@
 logo: /images/READAcademyLogo2C_PNG.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
+  - title: resources
+    url: /resources/
+  - title: Services
+    url: /services
+    sublinks: []
+  - title: example folder
     collection: example-folder
