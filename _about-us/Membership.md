@@ -22,7 +22,7 @@ staff and kindergarten educators)</p>
 <p>Members may avail yourselves with the full range of resources and services
 available by logging in with your MIMS ID. Please adhere to&nbsp;the following
 procedures to access READ@Academy resources:&nbsp;</p>
-<p><strong>If you are: </strong>
+<p><strong>If you are:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -57,7 +57,7 @@ MIMS Administrator.</p>
 </p>
 <ol>
 <li>
-<p><strong>For Direct Hires: </strong>
+<p><strong>For Direct Hires:</strong>
 </p>
 <p>Ensure your school/branch Local MIMS Administrator (LA) has:</p>
 <p>a) Applied for your MIMS Account</p>
@@ -66,7 +66,7 @@ MIMS Administrator.</p>
 <p></p>
 </li>
 <li>
-<p><strong>For Staff Transfers (Schools/HQs): </strong>
+<p><strong>For Staff Transfers (Schools/HQs):</strong>
 </p>
 <p>Confirm with your LA that:</p>
 <p>a) Transfer has been recorded</p>
@@ -74,7 +74,7 @@ MIMS Administrator.</p>
 <p></p>
 </li>
 <li>
-<p><strong>For MOE-seconded Staff to External Organisations: </strong>
+<p><strong>For MOE-seconded Staff to External Organisations:</strong>
 </p>
 <p>MIMS accounts may be deactivated due to inactivity.</p>
 <p>Please request reactivation through the LA at your previous workplace.</p>
