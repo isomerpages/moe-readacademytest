@@ -153,8 +153,8 @@ enquiries/feedback</p>
 <p>If you're still experiencing access issues after the MIMS team has confirmed
 that you have a valid MIMS Account and READ@Academy (RAC) access has been
 approved, please contact READ@Academy directly:</p>
-<p>Email: moe_readacademy@moe.edu.sg</p>
-<p>Phone: 6664-1455</p>
+<p>Email: <a href="mailto:moe_readacademy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">moe_readacademy@moe.edu.sg</a>,
+Phone: 6664-1455</p>
 <p>Our team will investigate the matter and assist you in resolving the access
 problem.</p>
 <p></p>
