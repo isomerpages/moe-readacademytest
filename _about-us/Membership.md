@@ -51,8 +51,8 @@ work</p>
 </div>
 <p><strong>Forgot Your Password?</strong>
 </p>
-<p>You can request a password reset for your MIMS account through your Local
-MIMS Administrator.</p>
+<p>You can request for a password reset for your MIMS account through your
+Local MIMS Administrator (LA).</p>
 <p><strong>If you're experiencing difficulties logging into the MIMS portal, here are some troubleshooting steps:</strong>
 </p>
 <ol>
