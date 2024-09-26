@@ -55,7 +55,8 @@ Local MIMS Administrator (LA).</p>
 <p>Applied for your MIMS Account</p>
 </li>
 </ul>
-<p>If you are unsure of your MIMS LA, consult School ICT Manager/HOD</p>
+<p>If you are unsure of the identity of your MIMS LA, consult School ICT
+Manager/HOD.</p>
 </div>
 </details>
 </div>
