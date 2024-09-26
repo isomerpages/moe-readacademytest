@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  e-resource-user-guides:
     output: true
     order:
       - folder-page.md
