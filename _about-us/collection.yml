@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Membership.md
       - Loan Information.md
       - Background.md
