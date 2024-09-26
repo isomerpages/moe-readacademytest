@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Loan Information</strong></h2>
-<p><strong>How to Borrow Library Resources</strong>
-</p>
+<h4><strong>How to Borrow Library Resources</strong></h4>
 <p><strong>The Online Public Access Catalogue (OPAC) is where you can access the Library's resources comprising print books, ebooks, audiobooks and magazines.</strong>
 </p>
 <p>For print resources, you may place a reservation for the title(s). You
