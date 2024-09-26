@@ -22,19 +22,17 @@ staff and kindergarten educators)</p>
 <p>Members may avail yourselves with the full range of resources and services
 available by logging in with your MIMS ID. Please adhere to&nbsp;the following
 procedures to access READ@Academy resources:&nbsp;</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Access READ@Academy landing page</p>
-</li>
-<li>
-<p>Log in using MIMS ID</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/download.png">
 </div>
 </li>
-</ol>
-<p></p>
+<li>
+<p>Log in using MIMS ID</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/download__1_.png">
 </div>
