@@ -17,15 +17,9 @@ sections:
       button: SEARCH E-RESOURCES
       url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?QRYTEXT=OverDrive%20e-Books&QRY=BIBITM%3E(ITMCOLX:%20OVD)&SORTS=SQL_RANDOM&NRECS=30&SETLVL=SET
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Search E-Resources
+          description: ""
+          url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?QRYTEXT=OverDrive%20e-Books&QRY=BIBITM%3E(ITMCOLX:%20OVD)&SORTS=SQL_RANDOM&NRECS=30&SETLVL=SET
       variant: center
   - infobar:
       title: Infobar title
