@@ -15,7 +15,6 @@ and Collection Service (DCS).&nbsp;After use, you may fill up a DCS Request
 Form for our dispatch to pick up and return to READ@Academy.</p>
 <p><strong>1. Borrowing Privileges</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
