@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Let's Connect.md
       - Membership.md
       - Loan Information.md
       - Background.md
