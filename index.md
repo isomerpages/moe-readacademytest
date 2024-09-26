@@ -13,7 +13,7 @@ sections:
       title: Future READy Professional Learning Resources
       subtitle: "To search for e-resources in our catalogue, please click the button
         below:"
-      background: /images/READ_Research2.jpg
+      background: /images/READ_Research2_1.jpg
       button: SEARCH E-RESOURCES
       url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?QRYTEXT=OverDrive%20e-Books&QRY=BIBITM%3E(ITMCOLX:%20OVD)&SORTS=SQL_RANDOM&NRECS=30&SETLVL=SET
       key_highlights:
