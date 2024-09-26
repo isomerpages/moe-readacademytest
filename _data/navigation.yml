@@ -1,7 +1,7 @@
 logo: /images/READAcademyLogo2C_PNG.png
 links:
   - title: resources
-    url: /resources/
+    url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?QRYTEXT=OverDrive%20e-Books&QRY=BIBITM%3E(ITMCOLX:%20OVD)&SORTS=SQL_RANDOM&NRECS=30&SETLVL=SET
   - title: Services
     url: /services
     sublinks:
