@@ -18,12 +18,33 @@ sections:
           url: https://readacademy.moe.edu.sg/
       variant: center
   - infobar:
-      description: <iframe allowfullscreen="" allow="web-share" frameborder="0"
-        title="YouTube video player"
+      description: <iframe allowfullscreen="" frameborder="0" title="YouTube video
+        player"
         src="https://www.youtube.com/embed/8YWr4FTn-ZU?si=3STqBS9XyI6PsCtO"
         height="315" width="560"></iframe>
       button: Explore Now
       url: https://readacademy.moe.edu.sg/
       title: What We Offer
       subtitle: At a Glance
+  - textcards:
+      title: Latest
+      id: textcards
+      description: Themes of the Month
+      cards:
+        - title: Self Directed Learning
+          description: ""
+          linktext: Learn more
+          url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?QRY=SVL(SELF-DIRECTEDLEARNINGNA)&NRECS=20&SETLVL=SET&SORTS=SQL_PUBDATEDESC&QRYTEXT=Self-%20Directed%20Learning
+        - title: Teacher Identity Development in 21CC
+          description: ""
+          linktext: Learn more
+          url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?QRY=SVL(TEACHERIDENTITYNA)&NRECS=20&SETLVL=SET&SORTS=SQL_PUBDATEDESC&QRYTEXT=Teacher%20Identity%20Development%20in%2021CC
+        - title: Self Management
+          description: ""
+          linktext: Learn more
+          url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?QRY=SVL(SELFMANAGEMENTNA)&NRECS=20&SETLVL=SET&SORTS=SQL_PUBDATEDESC&QRYTEXT=Self%20Management
+        - title: "Inclusivity in Schools: Special Education Needs"
+          description: ""
+          linktext: Learn more
+          url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?QRY=SVL(INCLUSIVITYINSCHOOLSNA)&NRECS=20&SETLVL=SET&SORTS=SQL_PUBDATEDESC&QRYTEXT=Inclusivity%20%20in%20Schools:%20Special%20Education%20Needs
 ---
