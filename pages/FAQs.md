@@ -9,7 +9,7 @@ description: ""
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Circulation: Membership</summary>
+<summary>Membership</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><em>Q: Who is eligible for READ@Academy membership?</em></strong>
 </p>
@@ -60,7 +60,7 @@ please head to 'Membership' page.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Circulation: User Accounts</summary>
+<summary>User Accounts</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><em>Q: How can I login to READ@Academy?</em></strong>
 </p>
