@@ -14,7 +14,7 @@ sections:
       background: /images/READ_Hero_pic__2_.jpg
       key_highlights:
         - title: Resources
-          description: Search our Catalogue
+          description: Search our E-Catalogue
           url: https://readacademy.moe.edu.sg/
       variant: center
   - infopic:
