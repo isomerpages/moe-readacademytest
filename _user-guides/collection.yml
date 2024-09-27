@@ -2,5 +2,6 @@ collections:
   user-guides:
     output: true
     order:
+      - FAQs.md
       - Database User Guides.md
       - SORA Digital Library App.md
