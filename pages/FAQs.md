@@ -47,7 +47,7 @@ description: ""
 </li>
 </ul>
 <p></p>
-<p><strong><em>Q: I am a direct-hire teacher. I have a MIMS Login ID but I cannot access resources in READ with my MIMS ID. How do I apply for membership?</em></strong>
+<p><strong><em>Q: I am a direct-hire teacher. I have a MIMS Login ID but I cannot access resources in READ@Academy with my MIMS ID. How do I apply for membership?</em></strong>
 </p>
 <p>A:<em> </em>Direct Hires’ accounts will need READ@Academy (RAC) account
 access on MIMS portal through your Local MIMS Administrator (LA).</p>
