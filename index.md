@@ -19,11 +19,12 @@ sections:
       variant: center
   - infobar:
       subtitle: What we offer
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+      description: '<iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/8YWr4FTn-ZU?si=HkXyy8kwLI7ix1N4"
-        height="208" width="370"></iframe>
+        class="yt-embed"></iframe>.yt-embed {   aspect-ratio: 16 / 9;   width:
+        100%; }'
       button: Button text
       url: /faq/
 ---
