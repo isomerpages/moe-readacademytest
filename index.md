@@ -21,22 +21,9 @@ sections:
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/8YWr4FTn-ZU?si=HkXyy8kwLI7ix1N4"
-        class="yt-embed"></iframe>
+        src="https://www.youtube.com/embed/8YWr4FTn-ZU?si=3STqBS9XyI6PsCtO"
+        height="315" width="560"></iframe>
       button: Explore Now
       url: https://readacademy.moe.edu.sg/
       title: What We Offer
-  - announcements:
-      title: What We Offer
-      id: announcements
-      announcement_items:
-        - title: Our Services
-          date: 27 September 2024
-          announcement: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-            clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-            web-share" frameborder="0" title="YouTube video player"
-            src="https://www.youtube.com/embed/8YWr4FTn-ZU?si=HkXyy8kwLI7ix1N4"
-            class="yt-embed"></iframe>
-          link_text: Explore Now
-          link_url: https://readacademy.moe.edu.sg/
 ---
