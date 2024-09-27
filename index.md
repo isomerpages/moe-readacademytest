@@ -17,15 +17,17 @@ sections:
           description: Search our Catalogue
           url: https://readacademy.moe.edu.sg/
       variant: center
-  - infobar:
-      description: <iframe allowfullscreen="" frameborder="0" title="YouTube video
-        player"
-        src="https://www.youtube.com/embed/8YWr4FTn-ZU?si=3STqBS9XyI6PsCtO"
-        class="yt-embed"></iframe>
-      button: Explore Now
-      url: https://readacademy.moe.edu.sg/
+  - infopic:
       title: What We Offer
       subtitle: At a Glance
+      id: infopic
+      description: READ@Academy is a specialised digital library which aims to support
+        the professional and personal development of officers in the education
+        service.
+      button: Watch Video
+      url: https://youtu.be/8YWr4FTn-ZU?si=OdTC775c9ESiSaR_
+      image: /images/Play_READ_video.png
+      alt: Image alt text
   - textcards:
       title: Latest
       id: textcards
@@ -47,24 +49,4 @@ sections:
           description: ""
           linktext: Learn more
           url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?QRY=SVL(INCLUSIVITYINSCHOOLSNA)&NRECS=20&SETLVL=SET&SORTS=SQL_PUBDATEDESC&QRYTEXT=Inclusivity%20%20in%20Schools:%20Special%20Education%20Needs
-  - infocols:
-      title: What We Offer
-      subtitle: At a Glance
-      id: infocols
-      infoboxes:
-        - title: Watch Video
-          description: <iframe
-            src="https://www.youtube.com/embed/8YWr4FTn-ZU?si=3STqBS9XyI6PsCtO"
-            class="yt-embed"></iframe>
-  - infopic:
-      title: What We Offer
-      subtitle: At a Glance
-      id: infopic
-      description: READ@Academy is a specialised digital library which aims to support
-        the professional and personal development of officers in the education
-        service.
-      button: Watch Video
-      url: https://youtu.be/8YWr4FTn-ZU?si=OdTC775c9ESiSaR_
-      image: /images/Play_READ_video.png
-      alt: Image alt text
 ---
