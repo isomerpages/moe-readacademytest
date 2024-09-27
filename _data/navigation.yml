@@ -12,7 +12,7 @@ links:
       - title: Info-Skills Workshops
         url: /info-skills-workshops/
   - title: User Guides
-    url: /home
+    url: /database-user-guides/
     sublinks:
       - title: E-Resources User Guides
         url: https://go.gov.sg/read-online-resource-user-guide
