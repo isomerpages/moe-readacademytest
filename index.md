@@ -48,13 +48,12 @@ sections:
           linktext: Learn more
           url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?QRY=SVL(INCLUSIVITYINSCHOOLSNA)&NRECS=20&SETLVL=SET&SORTS=SQL_PUBDATEDESC&QRYTEXT=Inclusivity%20%20in%20Schools:%20Special%20Education%20Needs
   - infocols:
-      title: Info-columns
-      subtitle: Add snippets of text in columns
+      title: What We Offer
+      subtitle: At a Glance
       id: infocols
-      linktext: Learn more
       infoboxes:
-        - title: Infobox
-          description: Infobox description
+        - title: A Specialised Digital Library for MOE officers
+          description: ""
         - title: Infobox
           description: <iframe
             src="https://www.youtube.com/embed/8YWr4FTn-ZU?si=3STqBS9XyI6PsCtO"
