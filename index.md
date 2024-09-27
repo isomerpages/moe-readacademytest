@@ -27,7 +27,6 @@ sections:
       button: Watch Video
       url: https://youtu.be/8YWr4FTn-ZU?si=OdTC775c9ESiSaR_
       image: /images/Play_READ_video.png
-      alt: Image alt text
   - textcards:
       title: Latest
       id: textcards
