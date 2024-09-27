@@ -1,5 +1,7 @@
 logo: /images/READAcademyLogo2C_PNG.png
 links:
+  - title: Resources
+    url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME
   - title: Services
     url: /info-skills-workshops/
     sublinks:
