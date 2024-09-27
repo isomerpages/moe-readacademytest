@@ -16,8 +16,5 @@ description: ""
 <li>
 <p>Please use your MIMS/Borrower ID and password to log in</p>
 </li>
-</ol>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sora.png">
-</div>
+</ol><a class="isomer-image-wrapper" href="https://soraapp.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sora.png"></a>
 <p></p>
