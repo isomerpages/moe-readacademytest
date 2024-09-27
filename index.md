@@ -21,7 +21,7 @@ sections:
       description: <iframe allowfullscreen="" frameborder="0" title="YouTube video
         player"
         src="https://www.youtube.com/embed/8YWr4FTn-ZU?si=3STqBS9XyI6PsCtO"
-        height="315" width="560"></iframe>
+        class="yt-embed"></iframe>
       button: Explore Now
       url: https://readacademy.moe.edu.sg/
       title: What We Offer
