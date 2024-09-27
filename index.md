@@ -26,4 +26,13 @@ sections:
       button: Explore Now
       url: https://readacademy.moe.edu.sg/
       title: What We Offer
+  - announcements:
+      title: What We Offer
+      id: announcements
+      announcement_items:
+        - title: Our Services
+          date: 27 September 2024
+          announcement: Announcement content
+          link_text: Explore Now
+          link_url: https://readacademy.moe.edu.sg/
 ---
