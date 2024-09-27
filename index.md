@@ -18,8 +18,7 @@ sections:
           url: https://readacademy.moe.edu.sg/
       variant: center
   - infobar:
-      title: Learn about what READ@Academy offers
-      subtitle: WHAT WE OFFER
+      subtitle: What we offer
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
