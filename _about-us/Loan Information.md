@@ -6,12 +6,8 @@ description: ""
 ---
 <h2><strong>Loan Information</strong></h2>
 <h4><strong>How to Borrow Library Resources</strong></h4>
-<p><strong>The Online Public Access Catalogue (OPAC) is where you can access the Library's resources comprising print books, ebooks, audiobooks and magazines.</strong>
+<p><strong>The Online Public Access Catalogue (OPAC) is where you can access the Library's resources comprising ebooks, audiobooks and magazines.</strong>
 </p>
-<p>For print resources, you may place a reservation for the title(s). You
-will receive the reserved titles the following week through our Delivery
-and Collection Service (DCS).&nbsp;After use, you may fill up a DCS Request
-Form for our dispatch to pick up and return to READ@Academy.</p>
 <p><strong>1. Borrowing Privileges</strong>
 </p>
 <table style="minWidth: 75px">
@@ -66,11 +62,8 @@ Form for our dispatch to pick up and return to READ@Academy.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Item requests and reservations can be made via the online catalogue.</p>
-</li>
-<li>
-<p>For urgent requests, members are advised to follow up via phone or email.</p>
 <p></p>
-<p>To make a reservation, go to the online catalogue at&nbsp;<a href="http://readacademy.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">http://readacademy.moe.edu.sg/</a>
+<p><strong>To make a reservation, go to the online catalogue at&nbsp;<a href="http://readacademy.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">http://readacademy.moe.edu.sg/</a></strong>
 </p>
 </li>
 <li>
@@ -107,7 +100,8 @@ to the member on SORA app.</p>
 <p>Renewals are allowed for a period of 14 days each and may be made if there
 are no reservations waiting.&nbsp;Two renewals are permitted.</p>
 <p></p>
-<p>To renew your book online in&nbsp;<strong>OPAC</strong>:</p>
+<p><strong>To renew your book online in&nbsp;OPAC:</strong>
+</p>
 </li>
 <li>
 <p>Go to the library's website at&nbsp;<a href="http://readacademy.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">http://readacademy.moe.edu.sg/</a>
@@ -123,7 +117,8 @@ are no reservations waiting.&nbsp;Two renewals are permitted.</p>
 <li>
 <p>Select the title you wish to renew and click&nbsp;<strong>Renew selections</strong>.</p>
 <p></p>
-<p>To renew your ebook/audiobook on&nbsp;<strong>SORA</strong>:</p>
+<p><strong>To renew your ebook/audiobook on&nbsp;SORA:</strong>
+</p>
 </li>
 <li>
 <p>Go to&nbsp;<strong>Shelf</strong>
@@ -136,6 +131,7 @@ are no reservations waiting.&nbsp;Two renewals are permitted.</p>
 <li>
 <p>Select&nbsp;<strong>Renew</strong>.&nbsp;Book may be renewed 5 days before
 due if there are no reservations waiting.</p>
+<p></p>
 </li>
 </ul>
 <p><strong>4. Items Return</strong>
