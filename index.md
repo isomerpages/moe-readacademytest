@@ -32,7 +32,11 @@ sections:
       announcement_items:
         - title: Our Services
           date: 27 September 2024
-          announcement: Announcement content
+          announcement: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+            clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+            web-share" frameborder="0" title="YouTube video player"
+            src="https://www.youtube.com/embed/8YWr4FTn-ZU?si=HkXyy8kwLI7ix1N4"
+            class="yt-embed"></iframe>
           link_text: Explore Now
           link_url: https://readacademy.moe.edu.sg/
 ---
