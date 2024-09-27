@@ -52,6 +52,9 @@ description: ""
 <p>A:<em> </em>To access READ@Academy (RAC) through the MIMS portal, you
 need specific account permissions. Please contact your Local MIMS Administrator
 (LA) to assist with the application process for RAC account access.</p>
+<p></p>
+<p>For more information and trouble shooting steps regarding membership ,
+please head to 'Membership' page.</p>
 </div>
 </details>
 </div>
