@@ -54,7 +54,7 @@ sections:
       infoboxes:
         - title: A Specialised Digital Library for MOE officers
           description: ""
-        - title: Infobox
+        - title: Watch Video
           description: <iframe
             src="https://www.youtube.com/embed/8YWr4FTn-ZU?si=3STqBS9XyI6PsCtO"
             class="yt-embed"></iframe>
