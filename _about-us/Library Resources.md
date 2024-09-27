@@ -4,11 +4,11 @@ permalink: /library-resources/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Library Resources</strong></h2>
+<h2><strong>Resource Classification</strong></h2>
 <p><strong>1. Library Collection</strong>
 </p>
-<p>READ@Academy provides print and digital resources on research, teaching
-and learning and professional development.</p>
+<p>READ@Academy provides digital resources on research, teaching and learning
+and professional development.</p>
 <p><strong>2. Resources Classification</strong>
 </p>
 <p>The resources are classified and arranged according to the Dewey Decimal
