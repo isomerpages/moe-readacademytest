@@ -19,11 +19,12 @@ sections:
       variant: center
   - infobar:
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
+        clipboard-write; encrypted-media; picture-in-picture; web-share"
+        frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/8YWr4FTn-ZU?si=3STqBS9XyI6PsCtO"
         height="315" width="560"></iframe>
       button: Explore Now
       url: https://readacademy.moe.edu.sg/
       title: What We Offer
+      subtitle: At a Glance
 ---
