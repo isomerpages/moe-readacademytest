@@ -18,9 +18,13 @@ sections:
           url: https://readacademy.moe.edu.sg/
       variant: center
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: Learn about what READ@Academy offers
+      subtitle: WHAT WE OFFER
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/8YWr4FTn-ZU?si=HkXyy8kwLI7ix1N4"
+        height="315" width="560"></iframe>
       button: Button text
       url: /faq/
 ---
