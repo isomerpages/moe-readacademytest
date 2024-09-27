@@ -16,37 +16,14 @@ description: ""
 <p>A: Membership is open to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Education officers of MOE and non-MOE schools</p>
+<p>MOE staff (inclusive of all education officers, executive and administrative
+staff and kindergarten educators)</p>
 </li>
 <li>
-<p>Executive and Administrative Staff of MOE and non-MOE schools</p>
-</li>
-<li>
-<p>Allied Educators (schools and MOE HQs)</p>
-</li>
-<li>
-<p>MOE kindergarten educators</p>
-</li>
-<li>
-<p>School Counsellors</p>
-</li>
-<li>
-<p>Special Education Needs Officers</p>
-</li>
-<li>
-<p>Student Welfare Officers)</p>
-</li>
-<li>
-<p>Outdoor Adventure Educators</p>
-</li>
-<li>
-<p>MOE Retired staff</p>
-</li>
-<li>
-<p>External members from organisations that have work related to MOE.</p>
+<p>Staff of organisations involved in work related to MOE e.g. SEAB</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p><strong><em>Q: I am a direct-hire teacher. I have a MIMS Login ID but I cannot access resources in READ@Academy with my MIMS ID. How do I apply for membership?</em></strong>
 </p>
 <p>A:<em> </em>To access READ@Academy (RAC) through the MIMS portal, you
