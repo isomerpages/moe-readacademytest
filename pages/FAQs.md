@@ -11,7 +11,7 @@ description: ""
 <details class="isomer-details">
 <summary>Circulation: Membership</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong><em>Q: Who can be a member of READ@Academy?</em></strong>
+<p><strong><em>Q: Who is eligible for READ@Academy membership?</em></strong>
 </p>
 <p>A: Membership is open to:</p>
 <ul data-tight="true" class="tight">
@@ -49,9 +49,8 @@ description: ""
 <p></p>
 <p><strong><em>Q: I am a direct-hire teacher. I have a MIMS Login ID but I cannot access resources in READ with my MIMS ID. How do I apply for membership?</em></strong>
 </p>
-<p>A:<em> </em>Direct Hires’ accounts are only created if the school’s LA
-create the account. Please request for READ@Academy in the MIMS portal
-through your LA.</p>
+<p>A:<em> </em>Direct Hires’ accounts will need READ@Academy (RAC) account
+access on MIMS portal through your Local MIMS Administrator (LA).</p>
 </div>
 </details>
 </div>
