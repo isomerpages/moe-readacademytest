@@ -39,7 +39,7 @@ head to 'Membership' page.</p>
 </div>
 </details>
 </div>
-<h3><strong>User Accounts </strong></h3>
+<h3><strong>User Accounts</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>How can I login to READ@Academy?</strong>
@@ -146,10 +146,9 @@ enquiries/feedback</p>
 <h3><strong>Resources: E-books and Audiobooks</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Resources: E-Books and Audiobooks</summary>
+<summary><strong>Where do the ebooks/audiobooks come from?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong><em>Q: Where do the ebooks/audiobooks come from?</em></strong>
-</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -175,42 +174,7 @@ are searchable via OPAC and also accessible via the EBSCO Discovery platform.</p
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p></p>
-<p><strong><em>Q: How long can I loan an ebook?</em></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>You can borrow up to a maximum of 6 ebooks for a period of <strong>21 days</strong>.</p>
-<p>On your Sora app, go to <strong>Shelf </strong>to see all the titles you
-have borrowed. You will see a countdown of the date due against each title.
-Your loan will expire automatically upon due date.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><em>Q: How can I renew an ebook?</em></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>You can borrow up to a maximum of 6 ebooks for a period of <strong>21 days</strong>.</p>
-<p></p>
-<p>Click on<strong> Options.&nbsp;</strong>You will see options to Renew
-or Return the book.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><em>Q: How do I know which are the OverDrive titles that I have loaned out?</em></strong>
 </p>
 <table style="minWidth: 25px">
@@ -348,6 +312,43 @@ the reservation queue for this title.</p>
 <p>[INSERT SCREENSHOT OF NEW ILS]</p>
 <p></p>
 <p>When a copy is available for loan, the status/description will be as indicated.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>How long can I loan an E-book?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You can borrow up to a maximum of 6 ebooks for a period of <strong>21 days</strong>.</p>
+<p>On your Sora app, go to <strong>Shelf </strong>to see all the titles you
+have borrowed. You will see a countdown of the date due against each title.
+Your loan will expire automatically upon due date.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>How can I renew an E-book?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You can borrow up to a maximum of 6 ebooks for a period of <strong>21 days</strong>.</p>
+<p></p>
+<p>[INSERT SCREENSHOT OF NEW ILS]</p>
+<p></p>
+<p>Click on<strong> Options.&nbsp;</strong>You will see options to Renew
+or Return the book.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>How do I know which are the OverDrive titles that I have loaned out?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong><u>In Sora</u></strong>
+</p>
+<p>Click on '<strong>Shelf'</strong> to see all the titles you have borrowed.</p>
+<p></p>
+<p><strong><u>In OPAC</u></strong>
+</p>
+<p>Simply log in to your library account and look under the “My account dashboard”
+tab. Your Overdrive loans will be reflected separately from your physical
+book loans.</p>
 </div>
 </details>
 <details class="isomer-details">
