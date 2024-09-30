@@ -149,13 +149,6 @@ enquiries/feedback</p>
 <summary><strong>Where do the ebooks/audiobooks come from?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Most of the ebooks/audiobooks are from OverDrive, the global distributor
 of digital content for libraries and schools. Leading digital content platform
 for libraries and schools.&nbsp;OverDrive is headquartered at Cleveland,
@@ -170,71 +163,6 @@ while Libby is the library reading app for public libraries like NLB.&nbsp;</p>
 <p></p>
 <p>Besides OverDrive, READ@Academy also carries some ebooks from EBSCO.&nbsp;These
 are searchable via OPAC and also accessible via the EBSCO Discovery platform.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p><strong><em>Q: How do I know which are the OverDrive titles that I have loaned out?</em></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>In Sora</u></strong>
-</p>
-<p>Click on <strong>Shelf</strong> to see all the titles you have borrowed.</p>
-<p></p>
-<p><strong><u>In OPAC</u></strong>
-</p>
-<p>Simply log in to your library account and look under the “My account dashboard”
-tab. Your Overdrive loans will be reflected separately from your physical
-book loans.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><em>Q: How do I cancel my Overdrive ebook reservation?</em></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>It is better to do reservations and cancellation of reservations in Sora
-as it gives most current updates on your transactions.</p>
-<p><strong>Place hold</strong> indicates that the title is currently on loan.</p>
-<p></p>
-<p>Be prepared to wait for about 2 weeks for its return.</p>
-<p></p>
-<p>To cancel a reservation:</p>
-<p>[Insert screenshot from new ILS]</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><em>Q: Which is better EPUB or PDF?</em></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EPUBs are designed to be flowable, resizable and user-friendly. It provides
-a more interactive format, optimised for viewing devices.</p>
-<p></p>
-<p>PDFs recreate a paper document in digital form.</p>
-</td>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 <details class="isomer-details">
@@ -352,9 +280,29 @@ book loans.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>How do I cancel my Overdrive ebook reservation?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>It is better to do reservations and cancellation of reservations in Sora
+as it gives most current updates on your transactions.</p>
 <p></p>
+<p><strong>Place hold</strong> indicates that the title is currently on loan.</p>
+<p>[INSERT SCREENSHOT OF NEW ILS]</p>
+<p></p>
+<p>Be prepared to wait for about 2 weeks for its return.</p>
+<p></p>
+<p>To cancel a reservation:</p>
+<p>[INSERT SCREENSHOT OF NEW ILS]</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Which is better? EPUB or PDF?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>EPUBs are designed to be flowable, resizable and user-friendly. It provides
+a more interactive format, optimised for viewing devices.</p>
+<p></p>
+<p>PDFs recreate a paper document in digital form.</p>
 </div>
 </details>
 </div>
