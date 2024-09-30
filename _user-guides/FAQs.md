@@ -19,8 +19,6 @@ staff and kindergarten educators)</p>
 </li>
 <li>
 <p>Staff of organisations involved in work related to MOE e.g. SEAB</p>
-</li>
-<li>
 <p>There is no payment needed.</p>
 </li>
 </ul>
