@@ -134,5 +134,99 @@ enquiries/feedback</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Queries on E-Books and Audio Books</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong><em>Q: Can I make a copy of an article from Library’s EBSCO databases for my personal use?</em></strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yes, this falls under fair use (Section 194 of the Copyright Act).&nbsp;You
+may copy:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>One article from a journal/magazine.&nbsp;2 articles from the same issue
+may be copied if the second article is also on the same subject matter.</p>
+</li>
+<li>
+<p>A reasonable portion from a book (i.e. 1 chapter if the book is in chapters,
+or 10% if the book has no chapters).</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong><em>Q: Can I share articles from EBSCO databases on a topic e.g. “21st Century Competencies” with the fraternity?</em></strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yes, as the articles from subscribed databases are subject to contractual
+terms of use. Our database subscriptions allow hyperlinking or downloading
+of articles on the Intranet/under controlled access for the educational
+purposes of our members.</p>
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong><em>Q:&nbsp;EBSCO databases does not have the full-text of the article I need for my official needs, and it is also not on open access on the Internet. Library acquired a copy from a third party source for my use and I would like to share with the fraternity. Can I put it on the Intranet for access?</em></strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>As this is not an article from our subscribed databases, this will fall
+under Section 198 Multiple Copying Under Statutory Licence, for which MOE
+has already entered into copyright licensing agreements with the Copyright
+Licensing &amp; Administration Society of Singapore Limted (CLASS). A Notation
+stamp to the following effect is required in compliance with Section 301
+of the Copyright Act, e.g.</p>
+<p></p>
+<p>This is to be applied to the first page of the article.&nbsp;</p>
+<p>Library keeps a record of these articles we purchased through our Document
+Supply Service. You will also be able to find the article indexed in the
+Library’s OPAC.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong><em>Q:&nbsp;I found some articles from the Internet that are suitable for my topic. Can I link these articles to my List for access by the fraternity?</em></strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hyperlinking is never a copyright infringement.&nbsp;You are not copying
+the work, just sharing links to the works. There is no copyright issue
+in a list of links that you created yourself.</p>
+<p>Other people may copy but that is their problem.&nbsp;You are not responsible
+for what users do after they see the work.&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <p></p>
