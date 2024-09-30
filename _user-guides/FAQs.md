@@ -164,18 +164,18 @@ are searchable via OPAC and also accessible via the EBSCO Discovery platform.</p
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>What is the difference between READ@Academy’s Sora and NLB’s Libby?</strong>
+<summary><strong>What is the difference between READ@Academy’s SORA and NLB’s Libby?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Sora and Libby are both apps and websites that allow users to access eBooks
-and audiobooks from OverDrive. Sora is the reading platform that schools
-use, while Libby is the public library equivalent of Sora.</p>
+and audiobooks from OverDrive. SORA is the reading platform that schools
+use, while Libby is the public library equivalent of SORA.</p>
 <p></p>
-<p>The main difference between the two is that Sora connects to a school’s
+<p>The main difference between the two is that SORA connects to a school’s
 library, while Libby allows residents to check out ebooks and audiobooks
 from their local library. For READ@Academy's users, we recommend using
-the SORA app, as it has been configured to enable NLB adult collection
-as well.</p>
+the SORA app, as it has been configured to also enable the searching of
+NLB's adult collection.</p>
 </div>
 </details>
 <details class="isomer-details">
