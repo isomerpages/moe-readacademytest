@@ -159,7 +159,7 @@ enquiries/feedback</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Resources: eBooks and Audiobooks</summary>
+<summary>Resources: E-Books and Audiobooks</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><em>Q: Where do the ebooks/audiobooks come from?</em></strong>
 </p>
@@ -188,8 +188,7 @@ are searchable via OPAC and also accessible via the EBSCO Discovery platform.</p
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong><em>Q: What is the difference between READ@Academy’s Sora and NLB’s Libby?</em></strong>
+<p>&nbsp;<strong><em>Q: What is the difference between READ@Academy’s Sora and NLB’s Libby?</em></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -219,7 +218,6 @@ for a list of all titles in the particular format.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong><em>Q: What devices do I need to read an electronic resource?</em></strong>
 </p>
 <table style="minWidth: 25px">
@@ -290,7 +288,6 @@ adult level collections.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong><em>Q: How do I know if an ebook is available for loan?</em></strong>
 </p>
 <table style="minWidth: 25px">
