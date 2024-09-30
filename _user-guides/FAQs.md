@@ -159,7 +159,7 @@ enquiries/feedback</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Resources: ebooks and Audiobooks</summary>
+<summary>Resources: eBooks and Audiobooks</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><em>Q: Where do the ebooks/audiobooks come from?</em></strong>
 </p>
