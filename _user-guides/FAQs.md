@@ -136,9 +136,10 @@ enquiries/feedback</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Queries on E-Books and Audio Books</summary>
+<summary><strong>Resources: eBooks/Audiobooks</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong><em>Q: Can I make a copy of an article from Library’s EBSCO databases for my personal use?</em></strong>
+<p><strong>Q: Where do the ebooks/audiobooks come from?</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -147,24 +148,26 @@ enquiries/feedback</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yes, this falls under fair use (Section 194 of the Copyright Act).&nbsp;You
-may copy:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>One article from a journal/magazine.&nbsp;2 articles from the same issue
-may be copied if the second article is also on the same subject matter.</p>
-</li>
-<li>
-<p>A reasonable portion from a book (i.e. 1 chapter if the book is in chapters,
-or 10% if the book has no chapters).</p>
-</li>
-</ul>
+<p>Most of the ebooks/audiobooks are from OverDrive, the global distributor
+of digital content for libraries and schools. Leading digital content platform
+for libraries and schools.&nbsp;OverDrive is headquartered at Cleveland,
+Ohio.&nbsp;It is used by public libraries, schools, polytechnics, universities
+and corporations worldwide. Locally, NLB and some schools, Institute of
+Higher Learning libraries and specialised libraries are subscribers to
+OverDrive.</p>
+<p>OverDrive also provides the platform for using their resources.&nbsp;</p>
+<p></p>
+<p>The designated platform for schools is Sora, the student reading app,
+while Libby is the library reading app for public libraries like NLB.&nbsp;</p>
+<p></p>
+<p>Besides OverDrive, READ@Academy also carries some ebooks from EBSCO.&nbsp;These
+are searchable via OPAC and also accessible via the EBSCO Discovery platform.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong><em>Q: Can I share articles from EBSCO databases on a topic e.g. “21st Century Competencies” with the fraternity?</em></strong>
+<p><strong>Q: What is the difference between READ@Academy’s Sora and NLB’s Libby?</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -173,17 +176,13 @@ or 10% if the book has no chapters).</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yes, as the articles from subscribed databases are subject to contractual
-terms of use. Our database subscriptions allow hyperlinking or downloading
-of articles on the Intranet/under controlled access for the educational
-purposes of our members.</p>
+<p>TBC</p>
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong><em>Q:&nbsp;EBSCO databases does not have the full-text of the article I need for my official needs, and it is also not on open access on the Internet. Library acquired a copy from a third party source for my use and I would like to share with the fraternity. Can I put it on the Intranet for access?</em></strong>
+<p><strong>Q: How do I search for electronic resources such as ebooks and audiobooks?</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -192,23 +191,69 @@ purposes of our members.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>As this is not an article from our subscribed databases, this will fall
-under Section 198 Multiple Copying Under Statutory Licence, for which MOE
-has already entered into copyright licensing agreements with the Copyright
-Licensing &amp; Administration Society of Singapore Limted (CLASS). A Notation
-stamp to the following effect is required in compliance with Section 301
-of the Copyright Act, e.g.</p>
+<p>You can access the library’s website (<a href="http://readacademy.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">http://readacademy.moe.edu.sg</a>),
+then click on Resources, browse the Resource categories of your choice
+for a list of all titles in the particular format.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<p>This is to be applied to the first page of the article.&nbsp;</p>
-<p>Library keeps a record of these articles we purchased through our Document
-Supply Service. You will also be able to find the article indexed in the
-Library’s OPAC.</p>
+<p><strong>Q: What devices do I need to read an electronic resource?</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>• Using a&nbsp;browser</strong>
+</p>
+<p>Choose your format and click&nbsp;<strong>Continue</strong>.&nbsp;Then,
+click&nbsp;<strong>Download</strong> the title.&nbsp;Lastly, click&nbsp;Read
+now in browser. There are no software or downloads required.</p>
+<p></p>
+<p>Choose your format and click <strong>Continue</strong>. The default is
+the ebook – ePub format.</p>
+<p></p>
+<p>You may also read in browser.&nbsp;Check out both approaches and decide
+on your preference.</p>
+<p></p>
+<p>•<strong>Using the Sora App</strong>
+</p>
+<p>To access from your mobile phone, go to the Apple Store or Google Play
+Store.</p>
+<p>To access from your laptop, go to the Sora&nbsp;<a href="https://soraapp.com/" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
+<p>Either way, you need to Select Read@Academy library and sign in with your
+username and password to access your OverDrive titles.</p>
+<p>&nbsp;</p>
+<p>•<strong>Using Adobe Digital Edition</strong>
+</p>
+<p>If you are currently using Adobe Digital Edition on your mobile devices,
+you can choose to add the selected title to your ebook collection simply
+by selecting “ePub” or “PDF” as your preferred format.&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q: Can I read books borrowed in Sora on an e-reader like Kobo?</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>It is not possible at the moment; OverDrive is planning to add this functionality
+in the near future.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong><em>Q:&nbsp;I found some articles from the Internet that are suitable for my topic. Can I link these articles to my List for access by the fraternity?</em></strong>
+<p><strong>Q: Do you have comics and picture books on Sora?</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -217,11 +262,122 @@ Library’s OPAC.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hyperlinking is never a copyright infringement.&nbsp;You are not copying
-the work, just sharing links to the works. There is no copyright issue
-in a list of links that you created yourself.</p>
-<p>Other people may copy but that is their problem.&nbsp;You are not responsible
-for what users do after they see the work.&nbsp;</p>
+<p>Once you have Sora set to concurrently access READ@Academy and Sora, you
+will be able to access comics and picture books in NLB’s Young Adults or
+adult level collections.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Q: How do I know if an ebook is available for loan?</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Below is an ebook record showing 1 copy on loan, with 2 reservations on
+the copy. Click on <strong>Place reservation</strong> if you wish to join
+the reservation queue for this title.</p>
+<p></p>
+<p>When a copy is available for loan, the status/Desc will be as indicated.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q: How long can I loan an ebook?</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>You can borrow up to a maximum of 6 ebooks for a period of <strong>21 days</strong>.</p>
+<p>On your Sora app, go to <strong>Shelf </strong>to see all the titles you
+have borrowed. You will see a countdown of the date due against each title.
+Your loan will expire automatically upon due date.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q: How can I renew an ebook?</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>You can borrow up to a maximum of 6 ebooks for a period of <strong>21 days</strong>.</p>
+<p></p>
+<p>Click on<strong> Options.&nbsp;</strong>You will see options to Renew
+or Return the book.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q: How do I know which are the OverDrive titles that I have loaned out?</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>In Sora</u></strong>
+</p>
+<p>Click on <strong>Shelf</strong> to see all the titles you have borrowed.</p>
+<p></p>
+<p><strong><u>In OPAC</u></strong>
+</p>
+<p>Simply log in to your library account and look under the “My account dashboard”
+tab. Your Overdrive loans will be reflected separately from your physical
+book loans.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q: How do I cancel my Overdrive ebook reservation?</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>It is better to do reservations and cancellation of reservations in Sora
+as it gives most current updates on your transactions.</p>
+<p><strong>Place hold</strong> indicates that the title is currently on loan.</p>
+<p></p>
+<p>Be prepared to wait for about 2 weeks for its return.</p>
+<p></p>
+<p>To cancel a reservation:</p>
+<p>[Insert screenshot from new ILS]</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Q: Which is better EPUB or PDF?</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EPUBs are designed to be flowable, resizable and user-friendly. It provides
+a more interactive format, optimised for viewing devices.</p>
+<p></p>
+<p>PDFs recreate a paper document in digital form.</p>
 </td>
 </tr>
 </tbody>
