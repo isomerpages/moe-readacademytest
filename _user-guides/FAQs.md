@@ -156,7 +156,7 @@ Higher Learning libraries and specialised libraries are subscribers to
 OverDrive.</p>
 <p>OverDrive also provides the platform for using their resources.&nbsp;</p>
 <p></p>
-<p>The designated platform for schools is Sora, the student reading app,
+<p>The designated platform for schools is SORA, the student reading app,
 while Libby is the library reading app for public libraries like NLB.&nbsp;</p>
 <p></p>
 <p>Besides OverDrive, READ@Academy also carries some ebooks from EBSCO.&nbsp;These
@@ -173,9 +173,19 @@ use, while Libby is the public library equivalent of SORA.</p>
 <p></p>
 <p>The main difference between the two is that SORA connects to a school’s
 library, while Libby allows residents to check out ebooks and audiobooks
-from their local library. For READ@Academy's users, we recommend using
-the SORA app, as it has been configured to also enable the searching of
-NLB's adult collection.</p>
+from their local library.</p>
+<p></p>
+<p>With SORA, users can add NLB to concurrently access READ@Academy and NLB’s
+ebooks/audiobooks. Users will still need to be an NLB member to borrow
+NLB titles on Sora. Through Sora, you will also have access to NLB’s Young
+Adults content and the Adult level contents, excluding mature adult content
+and magazines. Together, these resources is intended to meet the needs
+of educators who are teaching at various levels from kindergarten through
+to junior college.</p>
+<p></p>
+<p>With Libby, you will only be able to access NLB’s OverDrive ebooks/audiobooks,
+including NLB’s Young Adults content, mature adult contents, comics and
+magazines.</p>
 </div>
 </details>
 <details class="isomer-details">
