@@ -136,10 +136,9 @@ enquiries/feedback</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Resources: eBooks/Audiobooks</strong>
-</summary>
+<summary>Resources: ebooks and Audiobooks</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Q: Where do the ebooks/audiobooks come from?</strong>
+<p><strong><em>Q: Where do the ebooks/audiobooks come from?</em></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -167,7 +166,7 @@ are searchable via OPAC and also accessible via the EBSCO Discovery platform.</p
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong>Q: What is the difference between READ@Academy’s Sora and NLB’s Libby?</strong>
+<p><strong><em>Q: What is the difference between READ@Academy’s Sora and NLB’s Libby?</em></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -177,12 +176,11 @@ are searchable via OPAC and also accessible via the EBSCO Discovery platform.</p
 <tr>
 <td rowspan="1" colspan="1">
 <p>TBC</p>
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Q: How do I search for electronic resources such as ebooks and audiobooks?</strong>
+<p><strong><em>Q: How do I search for electronic resources such as ebooks and audiobooks?</em></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -199,7 +197,7 @@ for a list of all titles in the particular format.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Q: What devices do I need to read an electronic resource?</strong>
+<p><strong><em>Q: What devices do I need to read an electronic resource?</em></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -237,7 +235,7 @@ by selecting “ePub” or “PDF” as your preferred format.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Q: Can I read books borrowed in Sora on an e-reader like Kobo?</strong>
+<p><strong><em>Q: Can I read books borrowed in Sora on an e-reader like Kobo?</em></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -252,8 +250,8 @@ in the near future.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>Q: Do you have comics and picture books on Sora?</strong>
+<p></p>
+<p><strong><em>Q: Do you have comics and picture books on Sora?</em></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -270,7 +268,7 @@ adult level collections.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong>Q: How do I know if an ebook is available for loan?</strong>
+<p><strong><em>Q: How do I know if an ebook is available for loan?</em></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -288,7 +286,7 @@ the reservation queue for this title.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Q: How long can I loan an ebook?</strong>
+<p><strong><em>Q: How long can I loan an ebook?</em></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -305,7 +303,7 @@ Your loan will expire automatically upon due date.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Q: How can I renew an ebook?</strong>
+<p><strong><em>Q: How can I renew an ebook?</em></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -322,7 +320,7 @@ or Return the book.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Q: How do I know which are the OverDrive titles that I have loaned out?</strong>
+<p><strong><em>Q: How do I know which are the OverDrive titles that I have loaned out?</em></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -344,7 +342,7 @@ book loans.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Q: How do I cancel my Overdrive ebook reservation?</strong>
+<p><strong><em>Q: How do I cancel my Overdrive ebook reservation?</em></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -365,7 +363,7 @@ as it gives most current updates on your transactions.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Q: Which is better EPUB or PDF?</strong>
+<p><strong><em>Q: Which is better EPUB or PDF?</em></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
