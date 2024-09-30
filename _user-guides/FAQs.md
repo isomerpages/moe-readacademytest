@@ -5,14 +5,23 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>Frequent Asked Questions (FAQs)</strong></h1>
-<p><strong>Circulation</strong>
-</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Membership</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong><em>Q: Who is eligible for READ@Academy membership?</em></strong>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><em>Q: How can I be a member of READ@Academy?</em></strong>
 </p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>A: Membership is open to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -21,17 +30,31 @@ staff and kindergarten educators)</p>
 </li>
 <li>
 <p>Staff of organisations involved in work related to MOE e.g. SEAB</p>
-<p></p>
+</li>
+<li>
+<p>There is no payment needed.</p>
 </li>
 </ul>
-<p><strong><em>Q: I am a direct-hire teacher. I have a MIMS Login ID but I cannot access resources in READ@Academy with my MIMS ID. How do I apply for membership?</em></strong>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><em>Q: I am a direct-hire teacher. I have a MIMS Login ID but I cannot access resources in READ with my MIMS ID. How do I apply for membership?</em></strong>
 </p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>A:<em> </em>To access READ@Academy (RAC) through the MIMS portal, you
 need specific account permissions. Please contact your Local MIMS Administrator
 (LA) to assist with the application process for RAC account access.</p>
 <p></p>
-<p>For more information and trouble shooting steps regarding membership ,
-please head to 'Membership' page.</p>
+<p>For more information and troubleshooting steps regarding membership, please
+head to 'Membership' page.</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
