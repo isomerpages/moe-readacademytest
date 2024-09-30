@@ -5,23 +5,12 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>Frequent Asked Questions (FAQs)</strong></h1>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<h3><strong>Membership</strong></h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Membership</summary>
+<summary><strong>How can I be a member of READ@Academy?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong><em>Q: How can I be a member of READ@Academy?</em></strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>A: Membership is open to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -35,35 +24,27 @@ staff and kindergarten educators)</p>
 <p>There is no payment needed.</p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong><em>Q: I am a direct-hire teacher. I have a MIMS Login ID but I cannot access resources in READ with my MIMS ID. How do I apply for membership?</em></strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I am a direct-hire teacher. I have a MIMS Login ID but I cannot access resources in READ with my MIMS ID. How do I apply for membership?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>A:<em> </em>To access READ@Academy (RAC) through the MIMS portal, you
 need specific account permissions. Please contact your Local MIMS Administrator
 (LA) to assist with the application process for RAC account access.</p>
 <p></p>
 <p>For more information and troubleshooting steps regarding membership, please
 head to 'Membership' page.</p>
-</td>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<h3><strong>User Accounts </strong></h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>User Accounts</summary>
+<summary><strong>How can I login to READ@Academy?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong><em>Q: How can I login to READ@Academy?</em></strong>
-</p>
 <p>A: Members may avail yourselves with the full range of resources and services
 available by logging in with your MIMS ID.</p>
 <p></p>
@@ -81,19 +62,24 @@ resources:&nbsp;</p>
 <p>Log in using MIMS ID</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/download__1_.png">
 </div>
-<p></p>
-<p><strong><em>Q: I have forgotten my password. What should I do?</em></strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I have forgotten my password. What should I do?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>A: You can request for a password reset for your MIMS account through
 your Local MIMS Administrator (LA).</p>
-<p></p>
-<p><strong><em>Q: I'm unable to log in to READ@Academy using the MIMS login button. What troubleshooting steps should I take?</em></strong>
-</p>
-<p>A: Please contact the relevant service desks:</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I'm unable to log in to READ@Academy using the MIMS login button. What troubleshooting steps should I take?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please contact the relevant service desks:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -157,7 +143,8 @@ enquiries/feedback</p>
 </div>
 </details>
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<h3><strong>Resources: E-books and Audiobooks</strong></h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Resources: E-Books and Audiobooks</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -188,124 +175,8 @@ are searchable via OPAC and also accessible via the EBSCO Discovery platform.</p
 </tr>
 </tbody>
 </table>
-<p>&nbsp;<strong><em>Q: What is the difference between READ@Academy’s Sora and NLB’s Libby?</em></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><em>Q: How do I search for electronic resources such as ebooks and audiobooks?</em></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>You can access the library’s website (<a href="http://readacademy.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">http://readacademy.moe.edu.sg</a>),
-then click on Resources, browse the Resource categories of your choice
-for a list of all titles in the particular format.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><em>Q: What devices do I need to read an electronic resource?</em></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>• Using a&nbsp;browser</strong>
-</p>
-<p>Choose your format and click&nbsp;<strong>Continue</strong>.&nbsp;Then,
-click&nbsp;<strong>Download</strong> the title.&nbsp;Lastly, click&nbsp;Read
-now in browser. There are no software or downloads required.</p>
-<p></p>
-<p>Choose your format and click <strong>Continue</strong>. The default is
-the ebook – ePub format.</p>
-<p></p>
-<p>You may also read in browser.&nbsp;Check out both approaches and decide
-on your preference.</p>
-<p></p>
-<p>•<strong>Using the Sora App</strong>
-</p>
-<p>To access from your mobile phone, go to the Apple Store or Google Play
-Store.</p>
-<p>To access from your laptop, go to the Sora&nbsp;<a href="https://soraapp.com/" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
-<p>Either way, you need to Select Read@Academy library and sign in with your
-username and password to access your OverDrive titles.</p>
 <p>&nbsp;</p>
-<p>•<strong>Using Adobe Digital Edition</strong>
-</p>
-<p>If you are currently using Adobe Digital Edition on your mobile devices,
-you can choose to add the selected title to your ebook collection simply
-by selecting “ePub” or “PDF” as your preferred format.&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><em>Q: Can I read books borrowed in Sora on an e-reader like Kobo?</em></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>It is not possible at the moment; OverDrive is planning to add this functionality
-in the near future.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
-<p><strong><em>Q: Do you have comics and picture books on Sora?</em></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Once you have Sora set to concurrently access READ@Academy and Sora, you
-will be able to access comics and picture books in NLB’s Young Adults or
-adult level collections.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><em>Q: How do I know if an ebook is available for loan?</em></strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Below is an ebook record showing 1 copy on loan, with 2 reservations on
-the copy. Click on <strong>Place reservation</strong> if you wish to join
-the reservation queue for this title.</p>
-<p></p>
-<p>When a copy is available for loan, the status/Desc will be as indicated.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><em>Q: How long can I loan an ebook?</em></strong>
 </p>
 <table style="minWidth: 25px">
@@ -400,6 +271,89 @@ a more interactive format, optimised for viewing devices.</p>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>What is the difference between READ@Academy’s Sora and NLB’s Libby?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>TBC</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>How do I search for electronic resources such as ebooks and audiobooks?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You can access the library’s website (<a href="http://readacademy.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">http://readacademy.moe.edu.sg</a>),
+then click on Resources, browse the Resource categories of your choice
+for a list of all titles in the particular format.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>What devices do I need to read an electronic resource?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>• Using a&nbsp;browser</strong>
+</p>
+<p>Choose your format and click&nbsp;<strong>Continue</strong>.&nbsp;Then,
+click&nbsp;<strong>Download</strong> the title.&nbsp;Lastly, click&nbsp;Read
+now in browser. There are no software or downloads required.</p>
+<p></p>
+<p>Choose your format and click <strong>Continue</strong>. The default is
+the ebook – ePub format.</p>
+<p></p>
+<p>You may also read in browser.&nbsp;Check out both approaches and decide
+on your preference.</p>
+<p></p>
+<p>•<strong>Using the Sora App</strong>
+</p>
+<p>To access from your mobile phone, go to the Apple Store or Google Play
+Store.</p>
+<p>To access from your laptop, go to the Sora&nbsp;<a href="https://soraapp.com/" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
+<p>Either way, you need to Select Read@Academy library and sign in with your
+username and password to access your OverDrive titles.</p>
+<p>&nbsp;</p>
+<p>•<strong>Using Adobe Digital Edition</strong>
+</p>
+<p>If you are currently using Adobe Digital Edition on your mobile devices,
+you can choose to add the selected title to your ebook collection simply
+by selecting “ePub” or “PDF” as your preferred format.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Can I read books borrowed in Sora on an e-reader like Kobo?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>It is not possible at the moment; OverDrive is planning to add this functionality
+in the near future.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Do you have comics and picture books on Sora?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Once you have Sora set to concurrently access READ@Academy and Sora, you
+will be able to access comics and picture books in NLB’s Young Adults or
+adult level collections.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>How do I know if an e-book is available for loan?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Below is an ebook record showing 1 copy on loan, with 2 reservations on
+the copy. Click on <strong>Place reservation</strong> if you wish to join
+the reservation queue for this title.</p>
+<p></p>
+<p>[INSERT SCREENSHOT OF NEW ILS]</p>
+<p></p>
+<p>When a copy is available for loan, the status/description will be as indicated.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
