@@ -11,7 +11,7 @@ description: ""
 <summary><strong>How can I be a member of READ@Academy?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>A: Membership is open to:</p>
+<p>Membership is open to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>MOE staff (inclusive of all education officers, executive and administrative
@@ -28,9 +28,9 @@ staff and kindergarten educators)</p>
 <summary><strong>I am a direct-hire teacher. I have a MIMS Login ID but I cannot access resources in READ with my MIMS ID. How do I apply for membership?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>A:<em> </em>To access READ@Academy (RAC) through the MIMS portal, you
-need specific account permissions. Please contact your Local MIMS Administrator
-(LA) to assist with the application process for RAC account access.</p>
+<p>To access READ@Academy (RAC) through the MIMS portal, you need specific
+account permissions. Please contact your Local MIMS Administrator (LA)
+to assist with the application process for RAC account access.</p>
 <p></p>
 <p>For more information and troubleshooting steps regarding membership, please
 head to 'Membership' page.</p>
@@ -43,7 +43,7 @@ head to 'Membership' page.</p>
 <summary><strong>How can I login to READ@Academy?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>A: Members may avail yourselves with the full range of resources and services
+<p>Members may avail yourselves with the full range of resources and services
 available by logging in with your MIMS ID.</p>
 <p></p>
 <p>Please adhere to&nbsp;the following procedures to access READ@Academy
@@ -69,8 +69,8 @@ resources:&nbsp;</p>
 <summary><strong>I have forgotten my password. What should I do?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>A: You can request for a password reset for your MIMS account through
-your Local MIMS Administrator (LA).</p>
+<p>You can request for a password reset for your MIMS account through your
+Local MIMS Administrator (LA).</p>
 </div>
 </details>
 <details class="isomer-details">
