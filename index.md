@@ -20,6 +20,8 @@ sections:
             url: https://research.ebsco.com/c/ruibgz/search
           - title: Ebooks and Audiobooks
             url: https://soraapp.com/library/readacadsg
+          - title: E-Magazines
+            url: https://flipster.ebsco.com/c/q4pdkv
   - textcards:
       title: Latest
       id: textcards
