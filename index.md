@@ -12,11 +12,14 @@ sections:
   - hero:
       title: Future READy Professional Learning Resources
       background: /images/READ_Hero_pic__2_.jpg
-      key_highlights:
-        - title: Resources
-          description: Search our E-Catalogue
-          url: https://readacademy.moe.edu.sg/
       variant: center
+      dropdown:
+        title: Search for Digital Resources
+        options:
+          - title: Journals and Databases
+            url: https://research.ebsco.com/c/ruibgz/search
+          - title: Ebooks and Audiobooks
+            url: https://soraapp.com/library/readacadsg
   - textcards:
       title: Latest
       id: textcards
